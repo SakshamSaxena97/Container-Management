@@ -14,3 +14,9 @@ $ yum install httpd
 $ yum restart httpd
 
 $ yum stop firewalld
+
+$ setenforce 0
+
+# On Browser
+
+-- http://ip/scripts/dlaunch.py
