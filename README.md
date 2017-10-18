@@ -7,3 +7,10 @@ $ yum install docker-engine
 
 --Ensure that you have Docker Images already present.
 
+# Set Up Apache Server
+
+$ yum install httpd
+
+$ yum restart httpd
+
+$ yum stop firewalld
