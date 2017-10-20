@@ -5,6 +5,8 @@ Launches Docker container with the docker images in the system and performs acti
 
 $ yum install docker-engine
 
+$ yum restart docker
+
 --Ensure that you have Docker Images already present.
 
 # Set Up Apache Server
